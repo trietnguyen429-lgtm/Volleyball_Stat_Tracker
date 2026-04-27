@@ -9,7 +9,7 @@ A comprehensive volleyball team stats tracker built in Excel that allows users t
 Features
 
 Stats Input Sheet
-- Tracks up to 15 players per set
+- Tracks up to 15 players per set (add more if necessary)
 - Records all major volleyball stats per player per set
 - Auto-calculates Hit Efficiency, Pass Percentage, and Serve Efficiency
 - Color coded player rows for easy identification
