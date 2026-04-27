@@ -22,7 +22,7 @@ Summary Sheet
 - Updates automatically when new data is entered
 
 How to Use
-- Download the Volleyball_Stats_Tracker.xlsx file
+- Download the Volleyball_Stats_Sheet.xlsx file
 - Open it in Microsoft Excel
 - Go to the Stats Input sheet
 - Replace P1-P15 with your actual player names
